@@ -26,7 +26,7 @@ under the License.
     <artifactId>maven-plugins</artifactId>
     <groupId>org.apache.maven.plugins</groupId>
     <version>34</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <artifactId>maven-checkstyle-plugin</artifactId>
@@ -64,7 +64,7 @@ under the License.
 
   <properties>
     <javaVersion>8</javaVersion>
-    <mavenVersion>3.2.5</mavenVersion>
+    <mavenVersion>3.3.9</mavenVersion>
     <checkstyleVersion>9.3</checkstyleVersion>
     <doxiaVersion>1.11.1</doxiaVersion>
     <sitePluginVersion>3.9.1</sitePluginVersion>
@@ -172,7 +172,7 @@ under the License.
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-velocity</artifactId>
-      <version>1.2</version>
+      <version>1.3</version>
       <exclusions>
         <exclusion>
           <groupId>org.codehaus.plexus</groupId>
