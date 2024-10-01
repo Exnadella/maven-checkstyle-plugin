@@ -24,7 +24,7 @@ under the License.
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-plugins</artifactId>
     <version>42</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <artifactId>maven-checkstyle-plugin</artifactId>
@@ -78,7 +78,7 @@ under the License.
     <resolverVersion>1.4.1</resolverVersion>
     <checkstyleVersion>9.3</checkstyleVersion>
     <slf4jVersion>1.7.36</slf4jVersion>
-    <doxiaVersion>1.11.1</doxiaVersion>
+    <doxiaVersion>2.0.0</doxiaVersion>
     <doxiaSitetoolsVersion>1.11.1</doxiaSitetoolsVersion>
     <sitePluginVersion>3.12.1</sitePluginVersion>
     <jxrPluginVersion>3.3.0</jxrPluginVersion>
