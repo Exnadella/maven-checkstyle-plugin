@@ -24,7 +24,7 @@ under the License.
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-plugins</artifactId>
     <version>42</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <artifactId>maven-checkstyle-plugin</artifactId>
@@ -76,7 +76,7 @@ under the License.
     <javaVersion>8</javaVersion>
     <mavenVersion>3.6.3</mavenVersion>
     <resolverVersion>1.4.1</resolverVersion>
-    <checkstyleVersion>9.3</checkstyleVersion>
+    <checkstyleVersion>10.25.0</checkstyleVersion>
     <slf4jVersion>1.7.36</slf4jVersion>
     <doxiaVersion>1.11.1</doxiaVersion>
     <doxiaSitetoolsVersion>1.11.1</doxiaSitetoolsVersion>
@@ -137,7 +137,7 @@ under the License.
     <dependency>
       <groupId>org.apache.maven.reporting</groupId>
       <artifactId>maven-reporting-impl</artifactId>
-      <version>3.2.0</version>
+      <version>4.0.0</version>
     </dependency>
 
     <!-- doxia -->
